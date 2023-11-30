@@ -1,0 +1,25 @@
+{
+  "name": "database-tools",
+  "version": "1.0.0",
+  "description": "make SQL command easily",
+  "main": "databaseManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovetwice1012/database-tools.git"
+  },
+  "keywords": [
+    "mysql"
+  ],
+  "author": "yussy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lovetwice1012/database-tools/issues"
+  },
+  "homepage": "https://github.com/lovetwice1012/database-tools#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
