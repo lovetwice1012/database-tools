@@ -1,6 +1,6 @@
 {
   "name": "easy-sql-builder",
-  "version": "1.0.3",
+  "version": "1.0.3-0",
   "description": "make SQL command easily",
   "main": "index.js",
   "scripts": {
